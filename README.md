@@ -14,11 +14,8 @@ My discord - twenty two#0529
 
 My second account - twenty two number 2#5823
 
-My telegram 
-
-My youtube channel
-
-My second account steam 
+My telegram - @twentytwo777
+ 
 ____________________________________________
 
 # 🍁 Additional Information 🍁
