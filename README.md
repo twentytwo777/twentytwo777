@@ -1,16 +1,36 @@
-### Hi there 👋
+# 🐢 Personal Information 🐢
 
-<!--
-**twentytwo777/twentytwo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name - no, i won't tell
 
-Here are some ideas to get you started:
+Surname - noooooooo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages, i speak - Russian, English
+
+# ____________________________________________
+
+# 🐍 Social networks 🐍
+
+My discord - twenty two#0529
+
+My second account - twenty two number 2#5823
+
+My telegram 
+
+My youtube channel
+
+My second account steam 
+____________________________________________
+
+# 🍁 Additional Information 🍁
+
+# Favourite languages of programming: 
+
+# 1.Lua
+
+# 2.PHP
+
+# 3.JavaScript
+
+# 4.Python
+
+____________________________________________
