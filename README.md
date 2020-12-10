@@ -9,13 +9,19 @@ Languages, i speak - Russian, English
 
 # 🐍 Social networks 🐍
 
+My steam - https://steamcommunity.com/linkfilter/?url=https://t.me/twentytwo777
+
+My second steam account - https://steamcommunity.com/id/twenty2number2
+
 My discord - twenty two#0529
 
-My second account - twenty two number 2#5823
+My second discord account - twenty two number 2#5823
 
 My telegram - @twentytwo777
+
+My youtube channel - https://www.youtube.com/channel/UCHaHKwUwzD6_JI2zhjdwXyQ?view_as=subscriber
  
-____________________________________________
+#____________________________________________
 
 # 🍁 Additional Information 🍁
 
@@ -29,4 +35,4 @@ ____________________________________________
 
 # 4.Python
 
-____________________________________________
+#____________________________________________
