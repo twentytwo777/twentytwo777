@@ -5,7 +5,6 @@ Name - no, i won't tell
 Surname - noooooooo
 
 Languages, i speak - Russian, English
-
 # ____________________________________________
 
 # 🐍 Social networks 🐍
