@@ -6,7 +6,7 @@ My telegram - @twentytwo777
 
 ![alt tag](https://i.imgur.com/wtRc6bw.png "me")
 
-##### My favourite languages:
+<strong>My favourite languages:</strong>
 <img align="left" height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
