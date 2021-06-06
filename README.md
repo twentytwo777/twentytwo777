@@ -1,9 +1,9 @@
-# Hello, that's my github profile 👋
+# Hello, that's github profile of twenty two 👋
 
 - My discord - twenty two#2222
 - My telegram - @twentytwo777
 
-#### Now I am working on:
+# Now I am working on:
   - AOSHax Website [\*Click\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Click\*](https://wittchen.xyz)
   - And more projects
