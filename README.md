@@ -1,8 +1,8 @@
-# Hello, how are you? 👋
+# Hello, that's my github profile 👋
 
-My discord - twenty two#2222
+## My discord - twenty two#2222
 
-My telegram - @twentytwo777
+## My telegram - @twentytwo777
 
 ![alt tag](https://i.imgur.com/wtRc6bw.png "me")
 
