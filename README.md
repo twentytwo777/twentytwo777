@@ -4,7 +4,7 @@
 
 - My telegram - @twentytwo777
 
-#### Currently working on:
+#### Now I am working on:
   - AOSHax Website [\*Click\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Click\*](https://wittchen.xyz)
   - And more projects
