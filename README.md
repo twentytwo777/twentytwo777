@@ -1,7 +1,6 @@
 # Hello, that's my github profile 👋
 
 - My discord - twenty two#2222
-
 - My telegram - @twentytwo777
 
 #### Now I am working on:
