@@ -26,9 +26,6 @@
   <a align="center">
       <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?        username=twentytwo777&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
-    <a align="center">
-    <img alt="GitHub Statistics" height=175 align="center" src="https://github-readme-stats.vercel.app/api?   username=twentytwo777&hide_border=true&bg_color=ffffff&count_private=true&show_icons=true&include_all_commits=true">
-    </a>
 </p>
 
 <img align="center" src="https://i.imgur.com/FhHum5Y.png" />
