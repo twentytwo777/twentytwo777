@@ -16,7 +16,7 @@
 <img align="left" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <br>
-<img align="center" class="head___img" src="https://i.imgur.com/FhHum5Y.png"/>
+![alt tag](https://i.imgur.com/FhHum5Y.png "me")
 
 <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
