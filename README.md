@@ -25,4 +25,4 @@
   </a>
 </p>
 
-![alt tag](https://i.imgur.com/FhHum5Y.png "me")
+<img align="left" height="600" src="https://i.imgur.com/FhHum5Y.png" />
