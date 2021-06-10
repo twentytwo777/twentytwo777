@@ -24,4 +24,4 @@
   </a>
 </p>
 
-<img align="left" height="600" src="https://i.imgur.com/FhHum5Y.png" />
+<img align="center" src="https://i.imgur.com/FhHum5Y.png" />
