@@ -18,7 +18,7 @@
 </p>
 
 <br>
-<p style="padding-top: 10px;">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&theme=gotham">
   </a>
