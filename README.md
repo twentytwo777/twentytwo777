@@ -1,7 +1,7 @@
 # Привет, это github профиль twenty two 👋
 
-- Мой дискорд - twenty two#2222
-- Мой телеграмм - @twentytwo777
+- Мой discord - twenty two#2222
+- Мой telegram - @twentytwo777
 
 # Сейчас я работаю над:
   - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
