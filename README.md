@@ -15,8 +15,8 @@
 # Мои любимые языки программирования:
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img alt="PHP" src="https://img.shields.io/badge/php-%d35400.svg?&style=for-the-badge&logo=php&logoColor=%white">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%white">
+<img alt="PHP" src="https://img.shields.io/badge/php-%d35400.svg?&style=for-the-badge&logo=php&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </p>
