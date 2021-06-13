@@ -38,13 +38,6 @@
   </a>
 </p>
 
-<details>
-  <summary>🕛 Wakatime Week Stats</summary>
-  
-  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=twentytwo777&hide_title=true)](https://wakatime.com/@twentytwo777)
-
-</details>
-
 <br>
 
 <img align="center" src="https://i.imgur.com/FhHum5Y.png" />
