@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFC64F&center=true&vCenter=true&width=380&height=45&lines=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%2C+%D1%8D%D1%82%D0%BE+-+twenty+two!">
-</p>
-
-<p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=twentytwo777"/>
 </p>
 
