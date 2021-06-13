@@ -18,6 +18,7 @@
 <img alt="PHP" src="https://img.shields.io/badge/php-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="CSS" src="https://img.shields.io/badge/css-%2314354C.svg?&style=for-the-badge&logo=css&logoColor=white">
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </p>
 
