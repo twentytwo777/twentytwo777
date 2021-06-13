@@ -8,12 +8,10 @@
 - Мой telegram - @twentytwo777
 
 # 💻 Сейчас я работаю над:
-  <p align=center>
   - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Пуньк\*](https://wittchen.xyz)
   - GambitRP.ru Website [\*Пуньк\*](https://gambitrp.ru)
   - И многими другими проектами
-  </p>
 
 # 👨‍💻 Мои любимые языки программирования:
 <p align=center>
