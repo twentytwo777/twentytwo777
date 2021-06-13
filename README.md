@@ -24,7 +24,7 @@
 
 ## 📃 Несколько моих работ
 
-<p align="left">
+<p align=center>
   <a href="https://github.com/twentytwo777/portfolio">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="portfolio"></a>
   <a href="https://github.com/twentytwo777/Registration-Login-Form">
