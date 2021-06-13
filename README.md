@@ -33,9 +33,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentytwo777&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
-</p>
-<p align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=175 alt="twentytwo777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=175 alt="twentytwo777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
 </p>
 
 # 🔥 Полоса статистики:
