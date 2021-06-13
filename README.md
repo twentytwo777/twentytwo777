@@ -8,7 +8,7 @@
 - Мой telegram - @twentytwo777
 
 # 💻 Сейчас я работаю над:
-  - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
+  - AOSHax Website *[\*Пуньк\*]*(https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Пуньк\*](https://wittchen.xyz)
   - И многими другими проектами
 
