@@ -22,6 +22,17 @@
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </p>
 
+## 📃 Несколько моих работ
+
+<p align="left">
+  <a href="https://github.com/twentytwo777/portfolio">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="portfolio"></a>
+  <a href="https://github.com/twentytwo777/Registration-Login-Form">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Registration-Login-Form&theme=react&bg_color=0D1117&hide_border=true" alt="Registration-Login-Form"></a>
+<a href="https://github.com/twentytwo777/Cat-JPG-Menu">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Cat-JPG-Menu&theme=react&bg_color=0D1117&hide_border=true" alt="Cat-JPG-Menu"></a>
+</p>
+
 # 📘 Немного информации:
 <br>
 <p align=center>
