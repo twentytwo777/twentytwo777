@@ -29,6 +29,8 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="portfolio"></a>
   <a href="https://github.com/twentytwo777/Registration-Login-Form">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Registration-Login-Form&theme=react&bg_color=0D1117&hide_border=true" alt="Registration-Login-Form"></a>
+  <a href="https://github.com/twentytwo777/Cat-JPG-Menu">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Cat-JPG-Menu&theme=react&bg_color=0D1117&hide_border=true" alt="Cat-JPG-Menu"></a>
 </p>
 
 # 📘 Немного информации:
