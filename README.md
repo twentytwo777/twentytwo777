@@ -6,6 +6,7 @@
 
 - Мой discord - twenty two#2222
 - Мой telegram - @twentytwo777
+- Мой сайт - [\*Пуньк\*](twenty-individual.space) 
 
 # 💻 Сейчас я работаю над:
   - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
