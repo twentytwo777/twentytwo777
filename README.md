@@ -2,7 +2,7 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=twentytwo777"/>
 </p>
 
-# 👋 Hello, that's github profile twenty two / Привет, это github профиль twent two
+# 👋 Hello, that's github profile twenty two / Привет, это github профиль twenty two
 
 - My discord - twenty two#2222
 - My telegram - @twentytwo777
