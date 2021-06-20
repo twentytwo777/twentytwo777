@@ -2,19 +2,19 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=twentytwo777"/>
 </p>
 
-# 👋 Привет, это github профиль twenty two
+# 👋 Hello, that's github profile twenty two
 
-- Мой discord - twenty two#2222
-- Мой telegram - @twentytwo777
-- Мой сайт - [\*Пуньк\*](https://twenty-individual.space) 
+- My discord - twenty two#2222
+- My telegram - @twentytwo777
+- My сайт - [\*Пуньк\*](https://twenty-individual.space) 
 
-# 💻 Сейчас я работаю над:
+# 💻 I'm currently working on:
   - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Пуньк\*](https://wittchen.xyz)
   - GambitRP.ru Website [\*Пуньк\*](https://gambitrp.ru)
   - И многими другими проектами
 
-# 👨‍💻 Мои любимые языки программирования:
+# 👨‍💻 My favourite programming languages:
 <p align=center>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -23,7 +23,7 @@
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </p>
 
-# 📃 Несколько моих работ
+# 📃 Several of my works:
 
 <p align=center>
   <a href="https://github.com/twentytwo777/portfolio">
@@ -34,7 +34,7 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Cat-JPG-Menu&theme=react&bg_color=0D1117&hide_border=true" alt="Cat-JPG-Menu"></a>
 </p>
 
-# 📘 Немного информации:
+# 📘 Little information:
 <br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -43,7 +43,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=145 alt="twentytwo777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-# 🔥 Полоса статистики:
+# 🔥 Statistics line:
 <br>
 <p align=center>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
