@@ -6,13 +6,13 @@
 
 - My discord - twenty two#2222
 - My telegram - @twentytwo777
-- My сайт - [\*Пуньк\*](https://twenty-individual.space) 
+- My website - [\*Pynk\*](https://twenty-individual.space) 
 
 # 💻 I'm currently working on:
-  - AOSHax Website [\*Пуньк\*](https://vk.com/aoshax)  
-  - Wittchen.xyz Website [\*Пуньк\*](https://wittchen.xyz)
-  - GambitRP.ru Website [\*Пуньк\*](https://gambitrp.ru)
-  - И многими другими проектами
+  - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
+  - Wittchen.xyz Website [\*Pynk\*](https://wittchen.xyz)
+  - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
+  - And many other projects
 
 # 👨‍💻 My favourite programming languages:
 <p align=center>
