@@ -13,6 +13,7 @@
   - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Pynk\*](https://wittchen.xyz)
   - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
+  - Lemi-Project Website [\*Pynk\*](https://lemiproject.000webhostapp.com/)
   - And many other projects / И многими другими проектами
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
