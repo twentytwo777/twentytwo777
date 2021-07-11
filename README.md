@@ -12,9 +12,12 @@
 # 💻 I'm currently working on / Сейчас я работаю над:
   - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
   - Wittchen.xyz Website [\*Pynk\*](https://wittchen.xyz)
-  - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
-  - Lemi-Project Website [\*Pynk\*](https://lemiproject.000webhostapp.com/)
   - And many other projects / И многими другими проектами
+
+# 📚 Completed projects / Завершённые проекты:
+  - Lemi-Project Website [\*Pynk\*](https://lemiproject.000webhostapp.com/)
+  - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
+  - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
 <p align=center>
