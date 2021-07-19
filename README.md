@@ -17,6 +17,7 @@
 # 📚 Completed projects / Завершённые проекты:
   - Lemi-Project Website [\*Pynk\*](https://lemiproject.000webhostapp.com/)
   - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
+  - StellShop.su [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
