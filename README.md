@@ -15,7 +15,7 @@
   - And many other projects / И многими другими проектами
 
 # 📚 Completed projects / Завершённые проекты:
-  - Lemi-Project Website [\*Pynk\*](https://lemiproject.000webhostapp.com/)
+  - Lemi-Project Website [\*Pynk\*](http://f0560310.xsph.ru/)
   - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
   - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
   - And many other projects / И многие другие проекты
