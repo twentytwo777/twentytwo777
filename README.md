@@ -18,7 +18,7 @@
   - Lemi-Project Website [\*Pynk\*](http://f0560310.xsph.ru/)
   - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
   - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
-  - exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
+  - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
