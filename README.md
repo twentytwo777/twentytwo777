@@ -4,7 +4,7 @@
 
 # 👋 Hello, that's github profile twenty two / Привет, это github профиль twenty two
 
-- My discord - twenty two#1650
+- My discord - twenty two#0022
 - My telegram - @twentytwo777
 - My website - [\*Pynk\*](https://twenty-individual.space) 
 - I speak russian and english languages
