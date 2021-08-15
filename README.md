@@ -17,7 +17,7 @@
 # 📚 Completed projects / Завершённые проекты:
   - Lemi-Project Website [\*Pynk\*](http://f0560310.xsph.ru/)
   - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
-  - Wittchen.xyz Website [\*Pynk\*](https://wittchen.xyz)
+  - Wittchen.xyz Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/wittchen.xyz/)
   - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
   - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
   - Rashkinsk Website
