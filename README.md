@@ -12,6 +12,7 @@
 # 💻 I'm currently working on / Сейчас я работаю над:
   - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
   - OWL Anti-cheat Website
+  - NoRules - client Website
   - And many other projects / И многими другими проектами
 
 # 📚 Completed projects / Завершённые проекты:
