@@ -21,7 +21,8 @@
   - Wittchen.xyz Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/wittchen.xyz/)
   - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
   - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
-  - Rashkinsk Website
+  - Rashkinsk Website [\*Pynk\*](http://rashkinsk.ru/)
+  - MafiaRP Website [\*Pynk\*](https://mafiarp.fun/)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
