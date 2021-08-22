@@ -11,7 +11,6 @@
 
 # 💻 I'm currently working on / Сейчас я работаю над:
   - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
-  - OWL Anti-cheat Website
   - NoRules - client Website
   - And many other projects / И многими другими проектами
 
@@ -23,6 +22,7 @@
   - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
   - Rashkinsk Website [\*Pynk\*](http://rashkinsk.ru/)
   - MafiaRP Website [\*Pynk\*](https://mafiarp.fun/)
+  - OWL Anti-cheat Website [\*Pynk*\](https://twentytwo777.github.io/portfolio/owl-anti-cheat/)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
