@@ -11,7 +11,7 @@
 
 # 💻 I'm currently working on / Сейчас я работаю над:
   - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
-  - NoRules - client Website
+  - NoRules - client Website [\*Pynk\*](https://nrclient.cc/)
   - And many other projects / И многими другими проектами
 
 # 📚 Completed projects / Завершённые проекты:
