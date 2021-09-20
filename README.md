@@ -23,6 +23,7 @@
   - Rashkinsk Website [\*Pynk\*](http://rashkinsk.ru/)
   - MafiaRP Website [\*Pynk\*](https://mafiarp.fun/)
   - OWL Anti-cheat Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/owl-anti-cheat/)
+  - Vazgen.space Website Card with info  [\*Pynk\*](https://vazgen.space)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
