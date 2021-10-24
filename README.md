@@ -21,7 +21,7 @@
   - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
   - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
   - Rashkinsk Website [\*Pynk\*](http://rashkinsk.ru/)
-  - MafiaRP Website [\*Pynk\*](https://mafiarp.fun/)
+  - MafiaRP Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/mafia-rp_website/)
   - OWL Anti-cheat Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/owl-anti-cheat/)
   - Vazgen.space Website Card with info  [\*Pynk\*](https://vazgen.space)
   - And many other projects / И многие другие проекты
