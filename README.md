@@ -24,6 +24,7 @@
   - MafiaRP Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/mafia-rp_website/)
   - OWL Anti-cheat Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/owl-anti-cheat/)
   - Vazgen.space Website Card with info  [\*Pynk\*](https://vazgen.space)
+  - Cobalt.solutions Website [\*Pynk\*](https://cobalt.solutions)
   - And many other projects / И многие другие проекты
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
