@@ -9,24 +9,6 @@
 - My website - [\*Pynk\*](https://twenty-individual.space) 
 - I speak russian and english languages
 
-# 💻 I'm currently working on / Сейчас я работаю над:
-  - AOSHax Website [\*Pynk\*](https://vk.com/aoshax)  
-  - NoRules - client Website [\*Pynk\*](https://nrclient.cc/)
-  - And many other projects / И многими другими проектами
-
-# 📚 Completed projects / Завершённые проекты:
-  - Lemi-Project Website [\*Pynk\*](http://f0560310.xsph.ru/)
-  - GambitRP.ru Website [\*Pynk\*](https://gambitrp.ru)
-  - Wittchen.xyz Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/wittchen.xyz/)
-  - StellShop.su Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/stellshop/)
-  - Exechack.cc Main Page [\*Pynk\*](https://exechack.cc/)
-  - Rashkinsk Website [\*Pynk\*](http://rashkinsk.ru/)
-  - MafiaRP Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/mafia-rp_website/)
-  - OWL Anti-cheat Website [\*Pynk\*](https://twentytwo777.github.io/portfolio/owl-anti-cheat/)
-  - Vazgen.space Website Card with info  [\*Pynk\*](https://vazgen.space)
-  - Cobalt.solutions Website [\*Pynk\*](https://cobalt.solutions)
-  - And many other projects / И многие другие проекты
-
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
 <p align=center>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
