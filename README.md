@@ -6,7 +6,7 @@
 
 - My discord - twenty two#2222
 - My telegram - @twentytwo777
-- My website - [\*Pynk\*](https://twenty-individual.space) 
+- My website - [\*Pynk\*](https://twentytwo777.fun) 
 - I speak russian and english languages
 
 # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
