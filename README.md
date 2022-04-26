@@ -24,7 +24,7 @@
 
 <p align=center>
   <a href="https://github.com/twentytwo777/portfolio">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=id-vk-extension&theme=react&bg_color=0D1117&hide_border=true" alt="id-vk-extension"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="id-vk-extension"></a>
   <a href="https://github.com/twentytwo777/id-vk-extension">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=id-vk-extension&theme=react&bg_color=0D1117&hide_border=true" alt="Registration-Login-Form"></a>
   <a href="https://github.com/twentytwo777/Cat-JPG-Menu">
