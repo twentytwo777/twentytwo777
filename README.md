@@ -2,14 +2,13 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=twentytwo777"/>
 </p>
 
-# 👋 Hello, that's github profile twenty two / Привет, это github профиль twenty two
+# 👋 Hello, that's github profile twenty two
 
 - My discord - twenty two#8061
 - My telegram - @twentytwo777
 - My website - [\*Pynk\*](https://twentytwo777.fun) 
-- I speak russian and english languages
 
-# 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
+# 👨‍💻 My favourite programming languages:
 <p align=center>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,18 +19,7 @@
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </p>
 
-# 📃 Several of my works / Несколько моих работ:
-
-<p align=center>
-  <a href="https://github.com/twentytwo777/portfolio">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=portfolio&theme=react&bg_color=0D1117&hide_border=true" alt="id-vk-extension"></a>
-  <a href="https://github.com/twentytwo777/id-vk-extension">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=id-vk-extension&theme=react&bg_color=0D1117&hide_border=true" alt="Registration-Login-Form"></a>
-  <a href="https://github.com/twentytwo777/Cat-JPG-Menu">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=twentytwo777&repo=Cat-JPG-Menu&theme=react&bg_color=0D1117&hide_border=true" alt="Cat-JPG-Menu"></a>
-</p>
-
-# 📘 Little information / Немного информации:
+# 📘 Little information:
 <br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,7 +28,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=145 alt="twentytwo777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-# 🔥 Statistics line / Полоса статистики:
+# 🔥 Statistics line:
 <br>
 <p align=center>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
