@@ -2,12 +2,9 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=twentytwo777"/>
 </p>
 
-# 👋 Hello
-
 - My discord - twenty two#8061
 - My telegram - @twentytwo777
 - My website - [\*Pynk\*](https://twentytwo777.fun) 
-- I speak russian and english languages
 
 <br>
 <p align=center>
