@@ -11,7 +11,12 @@
         />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="right" height="145" alt="twentytwo777's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <img
+            align="right"
+            height="145"
+            alt="twentytwo777's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&bg_color=00000000&title_color=5BCDEC&text_color=5BCDEC&icon_color=5BCDEC&hide_border=true"
+        />
     </a>
 </p>
 
