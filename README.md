@@ -25,7 +25,7 @@
         <img
             title="🔥 Get streak stats for your profile at git.io/streak-stats"
             alt="twentytwo777's streak"
-            src="https://github-readme-streak-stats.herokuapp.com?user=twentytwo777&locale=en&ring=DDA0A0&fire=DD2727&background=FFFFFF&border=2CDD00&stroke=DD0093&currStreakNum=DD0000&sideNums=58DD00&currStreakLabel=75DD00&sideLabels=16DD00&dates=00DD4A"
+            src="https://github-readme-streak-stats.herokuapp.com?user=twentytwo777&locale=en&ring=DDA0A0&fire=DD2727&background=000000&border=2CDD00&stroke=DD0093&currStreakNum=DD0000&sideNums=58DD00&currStreakLabel=75DD00&sideLabels=16DD00&dates=00DD4A"
         />
     </a>
 </p>
