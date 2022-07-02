@@ -7,7 +7,7 @@
         <img
             height="145"
             align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentytwo777&layout=compact&hide_border=true&bg_color=00000000&text_color=888"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentytwo777&layout=compact&hide_border=true&bg_color=00000000&text_color=5BCDEC"
         />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
