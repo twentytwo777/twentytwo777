@@ -25,11 +25,11 @@
         <img
             title="🔥 Get streak stats for your profile at git.io/streak-stats"
             alt="twentytwo777's streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=twentytwo777&theme=black-ice&hide_border=true&stroke=0000&background=00000000&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=twentytwo777&hide_border=true&stroke=0000&background=00000000&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"
         />
     </a>
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="twentytwo777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=twentytwo777&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img alt="twentytwo777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=twentytwo777&bg_color=00000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
