@@ -8,7 +8,6 @@
 - My telegram - @twentytwo777
 - My website - [\*Pynk\*](https://twentytwo777.fun) 
 
-# 📘 Little information:
 <br>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
