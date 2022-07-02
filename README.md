@@ -20,16 +20,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img
-            title="🔥 Get streak stats for your profile at git.io/streak-stats"
-            alt="twentytwo777's streak"
-            src="https://github-readme-streak-stats.herokuapp.com?user=twentytwo777&locale=en&ring=DDA0A0&fire=DD2727&background=000000&border=2CDD00&stroke=DD0093&currStreakNum=DD0000&sideNums=58DD00&currStreakLabel=75DD00&sideLabels=16DD00&dates=00DD4A"
-        />
-    </a>
-</p>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="twentytwo777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=twentytwo777&bg_color=00000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
