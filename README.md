@@ -19,7 +19,4 @@
         />
     </a>
 </p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="twentytwo777's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=twentytwo777&bg_color=00000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
