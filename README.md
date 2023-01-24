@@ -7,7 +7,7 @@
         <img
             height="145"
             align="left"
-            src="https://readme-stats.clckblog.space/api/top-langs/?username=twentytwo777&layout=compact&hide_border=true&bg_color=00000000&text_color=5BCDEC"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentytwo777&layout=compact&hide_border=true&bg_color=00000000&text_color=5BCDEC"
         />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +15,7 @@
             align="right"
             height="145"
             alt="twentytwo777's Github Stats"
-            src="https://readme-stats.clckblog.space/api?username=twentytwo777&show_icons=true&count_private=true&bg_color=00000000&title_color=5BCDEC&text_color=5BCDEC&icon_color=5BCDEC&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api?username=twentytwo777&show_icons=true&count_private=true&bg_color=00000000&title_color=5BCDEC&text_color=5BCDEC&icon_color=5BCDEC&hide_border=true"
         />
     </a>
 </p>
