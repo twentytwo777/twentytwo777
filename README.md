@@ -6,7 +6,7 @@
     <a href="https://github.com/twentytwo777/github-readme-stats">
         <img
             height="145"
-            align="left"
+            align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentytwo777&layout=compact&hide_border=true&bg_color=00000000&text_color=5BCDEC"
         />
     </a>
